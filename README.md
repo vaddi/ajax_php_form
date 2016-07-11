@@ -1,29 +1,20 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+A simple HTML-Form example, which will send serialized formdata by ajax request to a post.php and view the result.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Simple PHP Ajax Form example
+* Version 0.1
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Get last version from github.com by following command:
 
-### Contribution guidelines ###
+    git clone git://github.com/vaddi/ajax_php_form.git
+    
+### Dependencies ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* A Webserver (apache,nginx) which can run PHP
+* PHP 
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
